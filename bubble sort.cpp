@@ -7,6 +7,8 @@ using namespace std;
 Bubble Sort
 Kabarcık Sıralaması
 
+Sağdaki ile karşılaştırılır hangisi büyükse büyük olan sağa yazılır
+
 1 17 10 9 12 20
 1 10 9 12 17 20
 1 9 10 12 17 20

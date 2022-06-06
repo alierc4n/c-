@@ -21,3 +21,8 @@ template <class T>
 	cout << n3->data<<endl;
 	return 0;
 }
+
+/* 3
+   5
+   10
+*/
